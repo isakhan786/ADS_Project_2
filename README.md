@@ -1,1 +1,2 @@
-# ADS_Project_2
+# ADS Project 2:
+Arithmetic and Boolean Expressions Evaluator
